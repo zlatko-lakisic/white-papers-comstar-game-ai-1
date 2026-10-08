@@ -44,4 +44,4 @@ https://creativecommons.org/licenses/by/4.0/legalcode
 When sharing or adapting this work, please include:
 
 > COMSTAR Game AI White Paper by Zlatko Lakisic is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
-> Source: https://github.com/zlatko-lakisic/white-papers-comstar-game-ai
+> Source: https://github.com/zlatko-lakisic/white-papers-comstar-game-ai-1
