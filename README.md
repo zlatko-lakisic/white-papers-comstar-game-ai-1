@@ -1,4 +1,4 @@
-![COMSTAR Game AI](assets/hero.jpg)
+![COMSTAR: The wrong coordinate system](assets/social-cover.jpg)
 
 # COMSTAR Game AI
 
